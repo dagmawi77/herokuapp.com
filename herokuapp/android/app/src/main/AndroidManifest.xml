@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.herokuapp">
    <application
-        android:label="herokuapp"
+        android:label="herokuapp(የኔ ስቶር)"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
