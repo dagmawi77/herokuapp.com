@@ -1,6 +1,13 @@
 # herokuapp
 
-A new Flutter project.
+simple app that Convert the https://magic-1.herokuapp.com/login website to mobile applications
+the apps act like webowser it add some functionality.
+        - Zoom the webpage
+        - Copy the Contenet if You want
+        - scrollBar 
+        - save usefull 
+
+Flutter application project project.
 
 ## Getting Started
 
