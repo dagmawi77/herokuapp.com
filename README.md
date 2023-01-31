@@ -7,7 +7,10 @@ the apps act like webowser it add some functionality.
 - scrollBar 
 - save usefull 
 
-Flutter application project project.
+it is futter application project.
+and also I use flutter_webview_plugin pakage
+
+https://pub.dev/packages/flutter_webview_plugin
 
 ## Getting Started
 
